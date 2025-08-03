@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3001;
 // ✅ 設定 Cloudinary 金鑰（已替換為你的）
 cloudinary.config({
   cloud_name: 'dwhn02tn5',
-  api_key: '899978884379254',
+  api_key: '222767751424686',
   api_secret: 'N4OYQ4knD1T8FejxI7S0kACfXOU',
 });
 
